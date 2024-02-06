@@ -1,0 +1,17 @@
+{
+  "name": "p2p-dist-exchange",
+  "version": "1.0.0",
+  "description": "p2p distributed exchange over grenache",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.5",
+    "grenache-nodejs-http": "^0.7.13",
+    "ulid": "^2.3.0",
+    "zod": "^3.22.4"
+  }
+}
